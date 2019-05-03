@@ -1,0 +1,2 @@
+# JavaTraining
+Core java programs
